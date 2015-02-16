@@ -14,5 +14,11 @@ namespace ApplyGitDemo.Controllers
 
             return View();
         }
+        public ActionResult Index2()
+        {
+            ViewBag.Title = "Home Page";
+
+            return View();
+        }
     }
 }

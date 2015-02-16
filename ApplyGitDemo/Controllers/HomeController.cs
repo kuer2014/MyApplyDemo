@@ -15,7 +15,7 @@ namespace ApplyGitDemo.Controllers
             return View();
         }
         /// <summary>
-        /// test Github
+        /// test Github  
         /// </summary>
         /// <returns></returns>
         public ActionResult Index2()
